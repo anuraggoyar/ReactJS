@@ -1,0 +1,9 @@
+.header {
+    margin-top: 60px;
+}
+
+headerTitle{
+    display: flex;
+    flex-direction: column;
+    justify-content: c;
+}

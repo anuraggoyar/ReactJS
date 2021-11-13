@@ -1,0 +1,18 @@
+.write {
+    padding: 50px;
+}
+.writeForm {
+
+}
+.writeFormGroup {
+    margin-left: 150px;
+    display: flex;
+}
+.writeIcon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid;
+    jsu
+    align-items: center;
+}

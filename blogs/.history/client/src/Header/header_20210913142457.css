@@ -1,0 +1,32 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.topLeft, .topRight {
+    flex : 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.topCenter{
+    flex : 6
+}
+
+.topIcon {
+    font-size: 12px;
+    margin: 3px;
+    
+}
+.topImg {
+     width: 40px;
+     height: 40px;
+     border-radius: 50%;
+     object-fit: cover;
+ }

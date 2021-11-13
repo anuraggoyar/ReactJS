@@ -1,0 +1,8 @@
+.sidebar {
+    flex : 3;
+    display: flex;
+    border-radius: 10px;
+    background-color: #fbfbfb;
+    margin: 20px;
+    padding-bottom: 30px;
+}

@@ -1,0 +1,19 @@
+.singlePost {
+    flex : 9;
+}
+.singlePostWrapper {
+    padding: 20px;
+    padding-right: 0px;
+}
+.singlePostImg {
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+    border-radius: 5px;
+}
+.singlePostTitle{
+    font-family: "";
+    text-align: center;
+    color : #999;
+    
+}

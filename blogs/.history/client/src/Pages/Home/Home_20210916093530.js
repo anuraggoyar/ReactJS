@@ -1,0 +1,17 @@
+import './home.css'
+import Header from '../../components/Header/Header';
+import Posts from '../../components/Posts/Posts';
+import Sidebar from '../../components/Sidebar/Sidebar';
+imrs
+export default function Home() {
+    const [state, setstate] = useState(initialState)
+    return (
+        <>
+            <Header />
+            <div className="home">
+                <Posts />
+                <Sidebar />
+            </div>
+        </>
+    )
+}

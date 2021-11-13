@@ -1,0 +1,8 @@
+.login {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: linearurl('../../img/login.jpg');
+    background-size: cover;
+}

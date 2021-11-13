@@ -1,0 +1,4 @@
+const User = require('../models/User');
+const router = require('express').Router();
+
+//Create Post : api/createPost

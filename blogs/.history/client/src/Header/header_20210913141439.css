@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.topLeft, .topRight {
+    flex : 3;
+    /* background-color: thistle; */
+}
+.topCenter{
+    flex : 6
+}
+ .topImg {
+     width: 40px;
+     height: 40px;
+     bor
+ }

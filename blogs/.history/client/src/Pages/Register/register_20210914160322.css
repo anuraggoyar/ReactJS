@@ -1,0 +1,20 @@
+.register {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../img/login.jpg');
+    background-size: cover;
+}
+
+.registerTitle {
+    font-size: 50px;
+}
+.registerForm {
+    display: flex;
+    flex-direction: column;
+}
+.registerForm > label {
+    margin : 10px 0px;
+}
