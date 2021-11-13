@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"name": "Weather-app",
+			"path": "..\\..\\..\\..\\..\\Documents\\Weather-app"
+		},
+		{
+			"name": "PlayGround",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlayGround"
+		},
+		{
+			"name": "web-servers",
+			"path": "..\\..\\..\\..\\..\\Documents\\web-servers"
+		},
+		{
+			"name": "task-manager",
+			"path": "..\\..\\..\\..\\..\\Documents\\task-manager"
+		},
+		{
+			"name": "PracticeProject",
+			"path": "..\\..\\..\\..\\..\\Documents\\PracticeProject"
+		},
+		{
+			"name": "Revision",
+			"path": "..\\..\\..\\..\\..\\Documents\\Revision"
+		},
+		{
+			"name": "WeatherAppRevision",
+			"path": "..\\..\\..\\..\\..\\Documents\\WeatherAppRevise\\WeatherAppRevision"
+		},
+		{
+			"name": "Web-Server2",
+			"path": "..\\..\\..\\..\\..\\Documents\\WeatherAppRevise\\Web-Server2"
+		},
+		{
+			"name": "Express",
+			"path": "..\\..\\..\\..\\..\\Documents\\WeatherAppRevise\\Express"
+		},
+		{
+			"name": "Tensorflow Object Detection",
+			"path": "..\\..\\..\\Tensorflow Object Detection"
+		},
+		{
+			"path": "..\\..\\..\\Hand Tracking"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "React JS"
+	}
+}
